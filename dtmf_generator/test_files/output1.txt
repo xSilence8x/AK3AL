@@ -1,0 +1,172 @@
+DTMF generator
+---------------
+
+0 - Vector Create
+1 - Input chars
+2 - Write to file
+M - Menu
+E - Exit
+
+Your choice:
+myMalloc: allocating 32 bytes, memory allocated 32 bytes
+myMalloc: allocating 2048 bytes, memory allocated 2080 bytes
+Vector created successfully!
+
+Your choice:
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 4128 bytes
+myRealloc: allocating 2048 bytes, memory allocated 6176 bytes
+myRealloc: allocating 2048 bytes, memory allocated 8224 bytes
+myRealloc: allocating 2048 bytes, memory allocated 10272 bytes
+myRealloc: allocating 2048 bytes, memory allocated 12320 bytes
+myRealloc: allocating 2048 bytes, memory allocated 14368 bytes
+myRealloc: allocating 2048 bytes, memory allocated 16416 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 18464 bytes
+myRealloc: allocating 2048 bytes, memory allocated 20512 bytes
+myRealloc: allocating 2048 bytes, memory allocated 22560 bytes
+myRealloc: allocating 2048 bytes, memory allocated 24608 bytes
+myRealloc: allocating 2048 bytes, memory allocated 26656 bytes
+myRealloc: allocating 2048 bytes, memory allocated 28704 bytes
+myRealloc: allocating 2048 bytes, memory allocated 30752 bytes
+myRealloc: allocating 2048 bytes, memory allocated 32800 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 34848 bytes
+myRealloc: allocating 2048 bytes, memory allocated 36896 bytes
+myRealloc: allocating 2048 bytes, memory allocated 38944 bytes
+myRealloc: allocating 2048 bytes, memory allocated 40992 bytes
+myRealloc: allocating 2048 bytes, memory allocated 43040 bytes
+myRealloc: allocating 2048 bytes, memory allocated 45088 bytes
+myRealloc: allocating 2048 bytes, memory allocated 47136 bytes
+myRealloc: allocating 2048 bytes, memory allocated 49184 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 51232 bytes
+myRealloc: allocating 2048 bytes, memory allocated 53280 bytes
+myRealloc: allocating 2048 bytes, memory allocated 55328 bytes
+myRealloc: allocating 2048 bytes, memory allocated 57376 bytes
+myRealloc: allocating 2048 bytes, memory allocated 59424 bytes
+myRealloc: allocating 2048 bytes, memory allocated 61472 bytes
+myRealloc: allocating 2048 bytes, memory allocated 63520 bytes
+myRealloc: allocating 2048 bytes, memory allocated 65568 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 67616 bytes
+myRealloc: allocating 2048 bytes, memory allocated 69664 bytes
+myRealloc: allocating 2048 bytes, memory allocated 71712 bytes
+myRealloc: allocating 2048 bytes, memory allocated 73760 bytes
+myRealloc: allocating 2048 bytes, memory allocated 75808 bytes
+myRealloc: allocating 2048 bytes, memory allocated 77856 bytes
+myRealloc: allocating 2048 bytes, memory allocated 79904 bytes
+myRealloc: allocating 2048 bytes, memory allocated 81952 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 84000 bytes
+myRealloc: allocating 2048 bytes, memory allocated 86048 bytes
+myRealloc: allocating 2048 bytes, memory allocated 88096 bytes
+myRealloc: allocating 2048 bytes, memory allocated 90144 bytes
+myRealloc: allocating 2048 bytes, memory allocated 92192 bytes
+myRealloc: allocating 2048 bytes, memory allocated 94240 bytes
+myRealloc: allocating 2048 bytes, memory allocated 96288 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 98336 bytes
+myRealloc: allocating 2048 bytes, memory allocated 100384 bytes
+myRealloc: allocating 2048 bytes, memory allocated 102432 bytes
+myRealloc: allocating 2048 bytes, memory allocated 104480 bytes
+myRealloc: allocating 2048 bytes, memory allocated 106528 bytes
+myRealloc: allocating 2048 bytes, memory allocated 108576 bytes
+myRealloc: allocating 2048 bytes, memory allocated 110624 bytes
+myRealloc: allocating 2048 bytes, memory allocated 112672 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 114720 bytes
+myRealloc: allocating 2048 bytes, memory allocated 116768 bytes
+myRealloc: allocating 2048 bytes, memory allocated 118816 bytes
+myRealloc: allocating 2048 bytes, memory allocated 120864 bytes
+myRealloc: allocating 2048 bytes, memory allocated 122912 bytes
+myRealloc: allocating 2048 bytes, memory allocated 124960 bytes
+myRealloc: allocating 2048 bytes, memory allocated 127008 bytes
+myRealloc: allocating 2048 bytes, memory allocated 129056 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 131104 bytes
+myRealloc: allocating 2048 bytes, memory allocated 133152 bytes
+myRealloc: allocating 2048 bytes, memory allocated 135200 bytes
+myRealloc: allocating 2048 bytes, memory allocated 137248 bytes
+myRealloc: allocating 2048 bytes, memory allocated 139296 bytes
+myRealloc: allocating 2048 bytes, memory allocated 141344 bytes
+myRealloc: allocating 2048 bytes, memory allocated 143392 bytes
+myRealloc: allocating 2048 bytes, memory allocated 145440 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 147488 bytes
+myRealloc: allocating 2048 bytes, memory allocated 149536 bytes
+myRealloc: allocating 2048 bytes, memory allocated 151584 bytes
+myRealloc: allocating 2048 bytes, memory allocated 153632 bytes
+myRealloc: allocating 2048 bytes, memory allocated 155680 bytes
+myRealloc: allocating 2048 bytes, memory allocated 157728 bytes
+myRealloc: allocating 2048 bytes, memory allocated 159776 bytes
+myRealloc: allocating 2048 bytes, memory allocated 161824 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 163872 bytes
+myRealloc: allocating 2048 bytes, memory allocated 165920 bytes
+myRealloc: allocating 2048 bytes, memory allocated 167968 bytes
+myRealloc: allocating 2048 bytes, memory allocated 170016 bytes
+myRealloc: allocating 2048 bytes, memory allocated 172064 bytes
+myRealloc: allocating 2048 bytes, memory allocated 174112 bytes
+myRealloc: allocating 2048 bytes, memory allocated 176160 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 178208 bytes
+myRealloc: allocating 2048 bytes, memory allocated 180256 bytes
+myRealloc: allocating 2048 bytes, memory allocated 182304 bytes
+myRealloc: allocating 2048 bytes, memory allocated 184352 bytes
+myRealloc: allocating 2048 bytes, memory allocated 186400 bytes
+myRealloc: allocating 2048 bytes, memory allocated 188448 bytes
+myRealloc: allocating 2048 bytes, memory allocated 190496 bytes
+myRealloc: allocating 2048 bytes, memory allocated 192544 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 194592 bytes
+myRealloc: allocating 2048 bytes, memory allocated 196640 bytes
+myRealloc: allocating 2048 bytes, memory allocated 198688 bytes
+myRealloc: allocating 2048 bytes, memory allocated 200736 bytes
+myRealloc: allocating 2048 bytes, memory allocated 202784 bytes
+myRealloc: allocating 2048 bytes, memory allocated 204832 bytes
+myRealloc: allocating 2048 bytes, memory allocated 206880 bytes
+myRealloc: allocating 2048 bytes, memory allocated 208928 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 210976 bytes
+myRealloc: allocating 2048 bytes, memory allocated 213024 bytes
+myRealloc: allocating 2048 bytes, memory allocated 215072 bytes
+myRealloc: allocating 2048 bytes, memory allocated 217120 bytes
+myRealloc: allocating 2048 bytes, memory allocated 219168 bytes
+myRealloc: allocating 2048 bytes, memory allocated 221216 bytes
+myRealloc: allocating 2048 bytes, memory allocated 223264 bytes
+myRealloc: allocating 2048 bytes, memory allocated 225312 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 227360 bytes
+myRealloc: allocating 2048 bytes, memory allocated 229408 bytes
+myRealloc: allocating 2048 bytes, memory allocated 231456 bytes
+myRealloc: allocating 2048 bytes, memory allocated 233504 bytes
+myRealloc: allocating 2048 bytes, memory allocated 235552 bytes
+myRealloc: allocating 2048 bytes, memory allocated 237600 bytes
+myRealloc: allocating 2048 bytes, memory allocated 239648 bytes
+myRealloc: allocating 2048 bytes, memory allocated 241696 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 2048 bytes, memory allocated 243744 bytes
+myRealloc: allocating 2048 bytes, memory allocated 245792 bytes
+myRealloc: allocating 2048 bytes, memory allocated 247840 bytes
+myRealloc: allocating 2048 bytes, memory allocated 249888 bytes
+myRealloc: allocating 2048 bytes, memory allocated 251936 bytes
+myRealloc: allocating 2048 bytes, memory allocated 253984 bytes
+myRealloc: allocating 2048 bytes, memory allocated 256032 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+Exit
+
+Your choice:
+WAV file created successfully!
+
+Your choice:
+0 - Vector Create
+1 - Input chars
+2 - Write to file
+M - Menu
+E - Exit
+
+Your choice:
+Ending the program!
+myFree: releasing 256000 bytes, memory allocated 32 bytes
+myFree: releasing 32 bytes, memory allocated 0 bytes

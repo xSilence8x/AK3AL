@@ -1,0 +1,12 @@
+<map id="app/main.c" name="app/main.c">
+<area shape="rect" id="node1" title="Main file." alt="" coords="181,5,267,32"/>
+<area shape="rect" id="node2" href="$data_8h.html" title="Declaration of the data module." alt="" coords="5,155,64,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="27,80,93,107"/>
+<area shape="rect" id="node5" href="$list_8h.html" title="Header file of linear list." alt="" coords="118,80,167,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="191,80,257,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="281,80,343,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="367,80,431,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="455,80,521,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="31,229,105,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="139,155,229,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="src/include/data.h" name="src/include/data.h">
+<area shape="rect" id="node1" title="Declaration of the data module." alt="" coords="105,5,231,32"/>
+<area shape="rect" id="node2" href="$data_8c.html" title="Implementation of the data module." alt="" coords="5,80,85,107"/>
+<area shape="rect" id="node3" href="$list_8h.html" title="Header file of linear list." alt="" coords="110,80,226,107"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="Main file." alt="" coords="221,155,307,181"/>
+<area shape="rect" id="node4" href="$list_8c.html" title="Implementing functions of ATD list defined in a header file list.h." alt="" coords="126,155,197,181"/>
+</map>

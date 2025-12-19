@@ -1,0 +1,65 @@
+List test program
+Type char 0-A for one of the following options:
+0: Init,
+1: Active_Update,
+2: Insert_First,
+3: First,
+4: Copy_First,
+5: Delete_First,
+6: Post_Delete,
+7: Post_Insert,
+8: Copy,
+9: Active_Next,
+A: Is_Active,
+M: Print menu
+CTRL+Z (Win) or CTRL+D (Unix): END
+Your choice=3
+First - set as an active item the first one
+Active item:
+NULL
+Content of List:
+
+Type char 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Your choice=5
+Delete_First - Deletes first item
+Active item:
+NULL
+Content of List:
+
+Type char 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Your choice=6
+Post_Delete - Deletes item that is located after active item
+Active item:
+NULL
+Content of List:
+
+Type char 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Your choice=9
+Active_Next - Shift the active item to the next one
+Active item:
+NULL
+Content of List:
+
+Type char 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Your choice=A
+Is_Active - Check, if theres an active item
+Is_Active=false
+Active item:
+NULL
+Content of List:
+
+Type char 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Your choice=4
+Copy_First - Display first item in list
+Active item:
+NULL
+Content of List:
+
+Type char 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+End of file, finishing.

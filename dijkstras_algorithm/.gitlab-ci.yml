@@ -1,0 +1,75 @@
+stages:
+    - build
+    - unitTests
+    - test
+
+variables:
+  PROJECT_NAME: "app"
+  BINARY_PATH: "bin"
+  TESTS_NAME: "tests"
+
+linux:
+  tags:
+    - seminars
+  stage: build
+
+  script: 
+    - cmake CMakeLists.txt
+    - make
+
+  cache: &global_cache
+    paths:
+      - $BINARY_PATH/$PROJECT_NAME
+      - $BINARY_PATH/$TESTS_NAME
+      - $BINARY_PATH/test_files
+
+  artifacts:
+    paths:
+      - $BINARY_PATH/$PROJECT_NAME
+      - $BINARY_PATH/$TESTS_NAME
+    when: always
+
+unitTesting:
+  tags:
+    - seminars
+  stage: unitTests
+
+  cache:
+    <<: *global_cache
+    policy: pull
+
+  variables:
+    UT_NAME: "unitTestOutput.txt"
+
+  script:
+    - cd $BINARY_PATH
+    - ./$TESTS_NAME | tee $UT_NAME
+    - (! grep -q "FAILED TESTS" $UT_NAME)
+
+  artifacts:
+    paths:
+      - $UT_NAME
+    when: always
+
+integrationTest: &integrationTest
+  tags:
+    - seminars
+
+  stage: test
+
+  variables:
+    SEQ_NUM: "1"
+
+  script:
+    - cd $BINARY_PATH
+    - valgrind --log-file=valgrindOutput.txt ./$PROJECT_NAME ../test_files/map3.csv < ../test_files/input$SEQ_NUM.txt | tee output.txt
+    - diff output.txt ../test_files/output$SEQ_NUM.txt | tee diffOutput.diff
+    - grep -q "no leaks are possible" valgrindOutput.txt
+    - cmp output.txt ../test_files/output$SEQ_NUM.txt
+
+  artifacts:
+    paths:
+      - $BINARY_PATH/output.txt
+      - $BINARY_PATH/diffOutput.diff
+      - $BINARY_PATH/valgrindOutput.txt
+    when: always

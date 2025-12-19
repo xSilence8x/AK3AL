@@ -1,1 +1,1 @@
-"# AK3AL - Algoritmy a datove struktury" 
+# AK3AL - Algoritmy a datove struktury

@@ -1,0 +1,5 @@
+<map id="src/include/dtmf.h" name="src/include/dtmf.h">
+<area shape="rect" id="node1" title="Declaration of the DTMF generator module." alt="" coords="37,5,175,32"/>
+<area shape="rect" id="node2" href="$dtmf_8c.html" title="Implementation of DTMF generator module." alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Main file for DTMF generator." alt="" coords="116,80,211,107"/>
+</map>

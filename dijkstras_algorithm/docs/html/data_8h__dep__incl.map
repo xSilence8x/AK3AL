@@ -1,0 +1,10 @@
+<map id="src/include/data.h" name="src/include/data.h">
+<area shape="rect" id="node1" title="Definition of the data module." alt="" coords="189,5,315,32"/>
+<area shape="rect" id="node2" href="$dijkstra_8h.html" title="Header file for Dijkstra algorithm." alt="" coords="181,80,323,107"/>
+<area shape="rect" id="node5" href="$heap_8h.html" title="Header file of heap module." alt="" coords="28,80,156,107"/>
+<area shape="rect" id="node7" href="$map_8h.html" title="Header file for map." alt="" coords="348,80,473,107"/>
+<area shape="rect" id="node3" href="$dijkstra_8c.html" title="Implementation of function for Dijkstra algorithm." alt="" coords="113,155,210,181"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="Main file for Dijkstra algorithm." alt="" coords="234,155,321,181"/>
+<area shape="rect" id="node6" href="$heap_8c.html" title="Implementation of the heap module in version min&#45;heap." alt="" coords="5,155,88,181"/>
+<area shape="rect" id="node8" href="$map_8c.html" title="Implementing of map module." alt="" coords="371,155,451,181"/>
+</map>

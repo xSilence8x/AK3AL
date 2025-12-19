@@ -1,0 +1,6 @@
+<map id="src/include/heap.h" name="src/include/heap.h">
+<area shape="rect" id="node1" title="Header file of heap module." alt="" coords="105,5,233,32"/>
+<area shape="rect" id="node2" href="$dijkstra_8c.html" title="Implementation of function for Dijkstra algorithm." alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" href="$heap_8c.html" title="Implementation of the heap module in version min&#45;heap." alt="" coords="127,80,210,107"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="Main file for Dijkstra algorithm." alt="" coords="235,80,321,107"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="app/main.c" name="app/main.c">
+<area shape="rect" id="node1" title="Main file for DTMF generator." alt="" coords="321,5,416,32"/>
+<area shape="rect" id="node2" href="$dtmf_8h.html" title="Declaration of the DTMF generator module." alt="" coords="179,80,243,107"/>
+<area shape="rect" id="node3" href="$vector_8h.html" title="Headers of Vector data structure." alt="" coords="130,155,205,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="215,229,298,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="323,229,393,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="369,80,443,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="468,80,549,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="574,80,641,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="665,80,736,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,229,92,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="117,229,191,256"/>
+</map>
